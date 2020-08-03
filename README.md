@@ -5,8 +5,8 @@ _Hyperhooks DOM_ is the renderer component for [Hyperhooks](https://github.com/h
 To use `hyperhooks-dom` just add it together with `hyperhooks-core` directly into your page using `<script>` tags. 
 
 ```html
-<script src="hyperhooks-core/lib/hyperhooks-core.js"></script>
-<script src="hyperhooks-dom/lib/hyperhooks-dom.js"></script>
+<script src="https://github.com/hyperhooks/hyperhooks-core/releases/download/1.0.0/hyperhooks-core.js"></script>
+<script src="https://github.com/hyperhooks/hyperhooks-dom/releases/download/1.0.0/hyperhooks-dom.js"></script>
 ```
 
 From your _JavaScript_ entry-point create a component hierarchy and call `render` to connect it to the document. 
